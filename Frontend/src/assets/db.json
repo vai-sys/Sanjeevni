@@ -1,0 +1,56 @@
+{
+  "common_herbs": {
+    "herbs": [
+      {
+        "name": "Turmeric",
+        "benefits": "Anti-inflammatory, supports immune health",
+        "image": "https://img.freepik.com/free-photo/turmeric-powder_1323-401.jpg?t=st=1714643362~exp=1714646962~hmac=98603ead977e9ea598d6ab9581cb123b4a89899660ff091e1e303ac4bbd9643c&w=1060"
+      },
+      {
+        "name": "Ginger",
+        "benefits": "Improves digestion, reduces nausea",
+        "image": "https://img.freepik.com/free-photo/turmeric-powder_1323-401.jpg?t=st=1714643362~exp=1714646962~hmac=98603ead977e9ea598d6ab9581cb123b4a89899660ff091e1e303ac4bbd9643c&w=1060"
+      },
+      {
+        "name": "Ashwagandha",
+        "benefits": "Adaptogen, reduces stress, boosts energy",
+        "image": "https://img.freepik.com/free-photo/turmeric-powder_1323-401.jpg?t=st=1714643362~exp=1714646962~hmac=98603ead977e9ea598d6ab9581cb123b4a89899660ff091e1e303ac4bbd9643c&w=1060"
+      },
+      {
+        "name": "Triphala",
+        "benefits": "Supports digestion, detoxifies the body",
+        "image": "https://img.freepik.com/free-photo/turmeric-powder_1323-401.jpg?t=st=1714643362~exp=1714646962~hmac=98603ead977e9ea598d6ab9581cb123b4a89899660ff091e1e303ac4bbd9643c&w=1060"
+      },
+      {
+        "name": "Neem",
+        "benefits": "Anti-bacterial, supports skin health",
+        "image": "https://img.freepik.com/free-photo/turmeric-powder_1323-401.jpg?t=st=1714643362~exp=1714646962~hmac=98603ead977e9ea598d6ab9581cb123b4a89899660ff091e1e303ac4bbd9643c&w=1060"
+      },
+      {
+        "name": "Brahmi",
+        "benefits": "Improves memory and cognitive function",
+        "image": "https://img.freepik.com/free-photo/turmeric-powder_1323-401.jpg?t=st=1714643362~exp=1714646962~hmac=98603ead977e9ea598d6ab9581cb123b4a89899660ff091e1e303ac4bbd9643c&w=1060"
+      },
+      {
+        "name": "Holy Basil (Tulsi)",
+        "benefits": "Antioxidant, reduces stress, supports respiratory health",
+        "image": "https://img.freepik.com/free-photo/turmeric-powder_1323-401.jpg?t=st=1714643362~exp=1714646962~hmac=98603ead977e9ea598d6ab9581cb123b4a89899660ff091e1e303ac4bbd9643c&w=1060"
+      },
+      {
+        "name": "Amla (Indian Gooseberry)",
+        "benefits": "Rich in Vitamin C, boosts immunity",
+        "image": "https://img.freepik.com/free-photo/turmeric-powder_1323-401.jpg?t=st=1714643362~exp=1714646962~hmac=98603ead977e9ea598d6ab9581cb123b4a89899660ff091e1e303ac4bbd9643c&w=1060"
+      },
+      {
+        "name": "Haritaki",
+        "benefits": "Improves digestion, detoxifies the body",
+        "image": "https://img.freepik.com/free-photo/turmeric-powder_1323-401.jpg?t=st=1714643362~exp=1714646962~hmac=98603ead977e9ea598d6ab9581cb123b4a89899660ff091e1e303ac4bbd9643c&w=1060"
+      },
+      {
+        "name": "Shatavari",
+        "benefits": "Supports female reproductive health, balances hormones",
+        "image": "https://img.freepik.com/free-photo/turmeric-powder_1323-401.jpg?t=st=1714643362~exp=1714646962~hmac=98603ead977e9ea598d6ab9581cb123b4a89899660ff091e1e303ac4bbd9643c&w=1060"
+      }
+    ]
+  }
+}
