@@ -16,18 +16,18 @@ const Bard = () => {
             
             method:"post",
             data:{
-              "contents":[{"parts":[{"text":question+" ayurvedic solution"}]}]
+              "contents":[{"parts":[{"text":question +" ayurvedic solution"}]}]
             }
           })
            setAnswer(simplifyText(response["data"]["candidates"][0]["content"]["parts"][0]["text"]))
         }
         const simplifyText = (text) => {
-          return text.replace(/\*\*\**/g, ''); // Replace all occurrences of '**' with an empty string
+          return text.replace(/\*\*\**/g, '');
         };
         
 
   return (
-    <div className="container mx-auto py-8 text-center">
+    <div className="container py-8 mx-auto text-center">
       <h2 className="text-3xl font-bold text-green-600">Sanjeevni Sarthi</h2>
       <p className="text-lg text-gray-600">Your AI Ayurveda Guide!</p>
       <textarea
@@ -46,7 +46,7 @@ const Bard = () => {
         {loading ? 'Generating...' : 'Generate Answer'}
       </button>
       <div className="mt-6">
-      <pre className="text-left overflow-auto border rounded-md p-4 max-h-40 bg-gray-100">
+      <pre className="p-4 overflow-auto text-left bg-gray-100 border rounded-md max-h-40">
         {answer || 'No answer available'}
       </pre>
     </div>
